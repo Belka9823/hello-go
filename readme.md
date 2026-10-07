@@ -348,7 +348,7 @@ git push -u origin main
 - В правой колонке — вкладка `Packages`
 - Там будет пакет `hello-go`
 
-![Uploading изображение.png…]()
+<img width="1373" height="183" alt="изображение" src="https://github.com/user-attachments/assets/86bc0bf0-a85c-4cdd-ba57-fa5ff5613d46" />
 
 
 Прямой URL пакета:
